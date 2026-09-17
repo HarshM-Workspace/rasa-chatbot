@@ -43,4 +43,4 @@ rasa shell             # in another, to chat with the bot
 
 ## Status
 
-Built and demoed within a 36-hour hackathon window. Archived as a snapshot of that build — not maintained.
+Built and demoed within a hackathon window. Archived as a snapshot of that build — not maintained.
